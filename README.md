@@ -6,6 +6,7 @@
 2. Start the web interface: `streamlit run app.py`
 3. Ask the question
 4. Get the response from the input documents.
+5. The response depends on the quality of the input markdowns.
 
 <img width="957" alt="Screenshot 2023-03-12 at 12 44 04 AM" src="https://user-images.githubusercontent.com/7871501/224636298-a4c18fff-60b9-4367-8dd1-ab9b3e095c64.png">
 
